@@ -1,0 +1,12 @@
+﻿Сборка начата 21.06.2017 9:57:59.
+     1>Проект "C:\Users\Student\Desktop\Warship\Warship\Warship.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Student\Desktop\Warship\Debug\Warship.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Student\Desktop\Warship\Debug\Warship.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\fGame.obj
+         Debug\MyForm.obj
+         "Debug\.NETFramework,Version=v4.6.AssemblyAttributes.obj"
+         Warship.vcxproj -> C:\Users\Student\Desktop\Warship\Debug\Warship.exe
+     1>Сборка проекта "C:\Users\Student\Desktop\Warship\Warship\Warship.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.71
